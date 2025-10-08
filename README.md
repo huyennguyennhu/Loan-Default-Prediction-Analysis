@@ -48,25 +48,6 @@ The goal is to predict the probability of loan default and identify key risk fac
 <br>
 
 ---
-
-### 🗂 Project Structure
-Loan-Default-Prediction-Analysis/<br>
-│<br>
-├── data/<br>
-│ ├── raw/ # Original raw data<br>
-│ └── processed/ # Cleaned and preprocessed data<br>
-│<br>
-├── notebooks/<br>
-│ └── data_preprocessing.ipynb # Data preprocessing & exploratory analysis<br>
-│<br>
-├── dashboards/<br>
-│ └── Loan_Risk_Dashboard.pbix # Power BI dashboard<br>
-│<br>
-├── reports/<br>
-│ └── Analysis_Insight.pdf # Report with insights<br>
-│<br>
-├── README.md<br>
-
 ---
 
 <br>
